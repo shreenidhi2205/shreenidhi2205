@@ -30,7 +30,7 @@ I am a Computer Engineering student (SPPU, CGPA: 8.75) passionate about building
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,react,nodejs,express,mongodb,firebase,git,github,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,firebase,git,github,postman,figma,vscode" />
 
 </p>
 
@@ -62,7 +62,7 @@ I am a Computer Engineering student (SPPU, CGPA: 8.75) passionate about building
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreenidhiRithe&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreenidhi2205&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I am a Computer Engineering student (SPPU, CGPA: 8.75) passionate about building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiRithe&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenidhi2205&layout=compact&theme=tokyonight" />
 </p>
 
 ---
