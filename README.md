@@ -1,30 +1,31 @@
 <h1 align="center">Hi 👋, I'm Shreenidhi Rithe</h1>
 
 <p align="center">
-🎓 Computer Engineering Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🔗 Exploring Blockchain
+🎓 Computer Engineering Student (SPPU) | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🔗 Exploring Blockchain
+</p>
+
+<p align="center">
+📍 Pune, India | 🚀 Building Practical & Scalable Tech Solutions
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Engineering student (SPPU, 2023–2027, CGPA: 8.75) with a strong foundation in Data Structures and Algorithms using Java and hands-on experience in full-stack web development.
+I am a Computer Engineering student (2023–2027, CGPA: 8.75) with a strong foundation in **Data Structures & Algorithms (Java)** and hands-on experience in **Full-Stack Web Development**.
 
-I enjoy building practical, scalable systems and continuously exploring emerging technologies like Machine Learning and Blockchain.
+I enjoy building real-world systems that integrate:
+- 🌐 Web Technologies  
+- 🤖 Machine Learning  
+- 🔗 Blockchain Concepts  
 
----
-
-## 🎓 Education
-
-**Bachelor of Engineering (2023–27)**  
-Computer Engineering – SPPU  
-CGPA: 8.75  
+Currently focused on strengthening my DSA for placements while building impactful AI + Web projects.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 - Java
 - JavaScript
 - Python
@@ -37,113 +38,108 @@ CGPA: 8.75
 - MongoDB
 - Firebase
 
-### 🧠 Core Computer Science
-- Data Structures & Algorithms (Java)
-- Object-Oriented Programming
-
-### 🤖 Machine Learning (Beginner Level)
+### 🤖 Machine Learning
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-Learn
+- Scikit-Learn (Beginner Level)
 
-### 🧰 Tools & Platforms
+### 🧠 Core CS
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS Basics
+
+### 🧰 Tools
 - Git & GitHub
 - Postman
 - Figma
 - VS Code
 
-### 🔍 Currently Exploring
-- Blockchain Fundamentals
-
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔹 E-Waste Management Platform
-Full-stack platform for secure e-waste management.
+A full-stack platform for secure and transparent e-waste disposal.
 
-- Vendor & user authentication system
-- AI-based product analysis
-- AR visualization of products
-- Blockchain-based tracking for transparency
-- Nearby vendor location & pickup scheduling
+✔ Vendor & User Authentication  
+✔ AI-based product analysis  
+✔ AR visualization  
+✔ Blockchain-based tracking  
+✔ Nearby vendor pickup scheduling  
 
-Tech Stack: React.js, Node.js, MongoDB, Blockchain Simulation
-
----
-
-### 🔹 Psychology Quiz Website
-Interactive multi-step quiz platform.
-
-- Real-time result generation
-- Dynamic certificate creation
-- Admin dashboard
-- Excel report download
-- Firebase integration
-
-Tech Stack: React.js, Firebase
+Tech: React.js, Node.js, MongoDB
 
 ---
 
 ### 🔹 Decentralised Library Platform
-Blockchain-based book-sharing platform.
+Blockchain-integrated book sharing system.
 
-- MetaMask integration
-- Smart contract simulation
-- Secure decentralized borrowing transactions
-
-Tech Stack: Blockchain Concepts, Web Integration
+✔ MetaMask integration  
+✔ Smart contract simulation  
+✔ Secure digital borrowing  
 
 ---
 
-### 🔹 Other Projects
-- College Club Website
-- Weather Display Platform (Published Research Work)
-- Bank Management System (OOP in Java)
+### 🔹 Psychology Quiz Website
+Interactive quiz platform with:
+
+✔ Real-time result generation  
+✔ Dynamic certificate creation  
+✔ Admin dashboard  
+✔ Excel report download  
+
+Tech: React.js, Firebase
 
 ---
 
 ## 📄 Research & Publications
 
 📌 Research Paper Published in IJCRTAE  
-Topic: Weather Displaying Platform
+Topic: Weather Display Platform
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 First Place – Chess Competition (Elpro Sports Fest Season-1)
-- 🇩🇪 Fit-1 German Exam – 50/60
-- 🎤 Vocal Recognition – GIISC-MUN (Delegate of Romania, UNFCC)
+🥇 First Place – Chess Competition (Elpro Sports Fest Season-1)  
+🇩🇪 Fit-1 German Exam (50/60)  
+🎤 GIISC-MUN – Delegate of Romania (UNFCC)
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications
 
-- NPTEL – Programming in Java
-- PW Skills – Backend Development
-- Great Learning – Python Fundamentals
-- Codekaro – JavaScript Workshop
-- IIT Madras – Decentralised Ledger Workshop
-
----
-
-## 📈 Currently Working On
-
-- Strengthening DSA for placements
-- Building AI + Web integrated projects
-- Exploring real-world Blockchain applications
+- NPTEL – Programming in Java  
+- PW Skills – Backend Development  
+- Great Learning – Python Fundamentals  
+- Codekaro – JavaScript Workshop  
+- IIT Madras – Decentralised Ledger Workshop  
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
-📍 Pune, India  
+![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreenidhiRithe&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiRithe&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 2026 Goals
+
+- Crack top tech internships  
+- Master DSA patterns  
+- Build 2 advanced AI-integrated web platforms  
+- Contribute to Open Source  
+
+---
+
+## 📫 Let's Connect
+
 📧 shreenidhirithe2210@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shreenidhi-rithe-272826292/ 
-💻 GitHub: https://github.com/shreenidhi2205
+🔗 https://www.linkedin.com/in/shreenidhi-rithe-272826292/  
 
 ---
 
-⭐ I am always open to collaboration, learning opportunities, and exciting tech discussions!
+⭐ Always open to learning, collaboration & building impactful technology!
