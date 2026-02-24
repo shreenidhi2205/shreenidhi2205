@@ -66,7 +66,7 @@ I am a Computer Engineering student (SPPU, CGPA: 8.75) passionate about building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreenidhiRithe&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreenidhi2205&theme=tokyonight" />
 </p>
 
 <p align="center">
