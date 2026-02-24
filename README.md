@@ -1,145 +1,124 @@
 <h1 align="center">Hi 👋, I'm Shreenidhi Rithe</h1>
 
 <p align="center">
-🎓 Computer Engineering Student (SPPU) | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🔗 Exploring Blockchain
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 
 <p align="center">
-📍 Pune, India | 🚀 Building Practical & Scalable Tech Solutions
+  🎓 Computer Engineering Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🔗 Exploring Blockchain
+</p>
+
+<p align="center">
+  📍 Pune, India
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I am a Computer Engineering student (2023–2027, CGPA: 8.75) with a strong foundation in **Data Structures & Algorithms (Java)** and hands-on experience in **Full-Stack Web Development**.
+I am a Computer Engineering student (SPPU, CGPA: 8.75) passionate about building practical and scalable tech solutions.
 
-I enjoy building real-world systems that integrate:
-- 🌐 Web Technologies  
-- 🤖 Machine Learning  
-- 🔗 Blockchain Concepts  
-
-Currently focused on strengthening my DSA for placements while building impactful AI + Web projects.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-- Java
-- JavaScript
-- Python
-- SQL
-
-### 🌐 Web Development
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-
-### 🤖 Machine Learning
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn (Beginner Level)
-
-### 🧠 Core CS
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS Basics
-
-### 🧰 Tools
-- Git & GitHub
-- Postman
-- Figma
-- VS Code
+- 💡 Strong in Data Structures & Algorithms (Java)
+- 🌐 Full Stack Web Development
+- 🤖 Exploring Machine Learning
+- 🔗 Learning Blockchain Fundamentals
+- 🚀 Focused on internships & placements
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Technologies & Tools
 
-### 🔹 E-Waste Management Platform
-A full-stack platform for secure and transparent e-waste disposal.
+<p align="center">
 
-✔ Vendor & User Authentication  
-✔ AI-based product analysis  
-✔ AR visualization  
-✔ Blockchain-based tracking  
-✔ Nearby vendor pickup scheduling  
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,react,nodejs,express,mongodb,firebase,git,github,postman,figma,vscode" />
 
-Tech: React.js, Node.js, MongoDB
+</p>
 
 ---
 
-### 🔹 Decentralised Library Platform
-Blockchain-integrated book sharing system.
+# 🚀 Featured Projects
 
-✔ MetaMask integration  
-✔ Smart contract simulation  
-✔ Secure digital borrowing  
+### ♻️ E-Waste Management Platform
+> AI + Blockchain integrated full-stack solution for secure e-waste disposal.
 
----
-
-### 🔹 Psychology Quiz Website
-Interactive quiz platform with:
-
-✔ Real-time result generation  
-✔ Dynamic certificate creation  
-✔ Admin dashboard  
-✔ Excel report download  
-
-Tech: React.js, Firebase
+- Vendor & User Login
+- AI Product Analysis
+- AR Visualization
+- Blockchain Tracking
+- Pickup Scheduling
 
 ---
 
-## 📄 Research & Publications
-
-📌 Research Paper Published in IJCRTAE  
-Topic: Weather Display Platform
+### 📚 Decentralised Library Platform
+> Blockchain-based secure book sharing system with MetaMask integration.
 
 ---
 
-## 🏆 Achievements
-
-🥇 First Place – Chess Competition (Elpro Sports Fest Season-1)  
-🇩🇪 Fit-1 German Exam (50/60)  
-🎤 GIISC-MUN – Delegate of Romania (UNFCC)
+### 🧠 Psychology Quiz Website
+> Real-time quiz with dynamic certificate generation & admin dashboard.
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreenidhiRithe&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreenidhiRithe&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiRithe&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Chess Competition Winner – Elpro Sports  
+🇩🇪 Fit-1 German Certification (50/60)  
+📄 Research Paper Published – Weather Display Platform  
+
+---
+
+# 📜 Certifications
 
 - NPTEL – Programming in Java  
 - PW Skills – Backend Development  
 - Great Learning – Python Fundamentals  
-- Codekaro – JavaScript Workshop  
 - IIT Madras – Decentralised Ledger Workshop  
 
 ---
 
-## 📈 GitHub Stats
+# 🤝 Let's Connect
 
-![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreenidhiRithe&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreenidhi-rithe-272826292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiRithe&layout=compact&theme=tokyonight)
+  <a href="mailto:shreenidhirithe2210@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!---<a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>--->
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Crack top tech internships  
+- Crack top tech internship  
 - Master DSA patterns  
-- Build 2 advanced AI-integrated web platforms  
+- Build 2 advanced AI-integrated systems  
 - Contribute to Open Source  
 
 ---
 
-## 📫 Let's Connect
-
-📧 shreenidhirithe2210@gmail.com  
-🔗 https://www.linkedin.com/in/shreenidhi-rithe-272826292/  
-
----
-
-⭐ Always open to learning, collaboration & building impactful technology!
+<p align="center">
+  ⭐️ Always open to collaboration & innovative ideas!
+</p>
