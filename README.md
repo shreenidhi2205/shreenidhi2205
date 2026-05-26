@@ -86,8 +86,11 @@ A version control backend implementing core Git internals from scratch.
 # 🏆 Achievements
 
 🥇 Chess Competition Winner – Elpro Sports
+
 🇩🇪 Fit-1 German Certification (50/60)
+
 📄 Research Paper Published – Weather Display Platform
+
 🌸 GirlScript Summer of Code – Open Source Contributor
 
 ---
